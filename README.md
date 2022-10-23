@@ -8,4 +8,4 @@
 oticos/oticos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Readme.md is a file for describe all projects in my GitHub or for there is one Readme file by project?
+Readme.md is a file for describe all projects in my GitHub or Is there one Readme file by project?
